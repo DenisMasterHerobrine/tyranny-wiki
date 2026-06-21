@@ -12,11 +12,8 @@
 tyranny.world
 ```
 
-**Версия**
+**Версия** - 1.21.11
 
-```
-1.21.11
-```
 
 ---
 
@@ -24,9 +21,9 @@ tyranny.world
 
 Если возникают проблемы с подключением:
 
-* `alt.tyranny.world`
-* `exp.tyranny.world`
-* `ru.tyranny.world`
+* ```alt.tyranny.world```
+* ```exp.tyranny.world```
+* ```ru.tyranny.world```
 
 ---
 
@@ -43,5 +40,6 @@ tyranny.world
 *[Telegram](https://t.me/tyranny_world)* - Новости сервера, анонсы и объявления.
 
 *[Discord](https://discord.gg/KrFyDDcfQv)* - Общение игроков, помощь новичкам и организация ивентов.
+
 ---
 
