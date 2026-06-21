@@ -21,9 +21,15 @@ tyranny.world
 
 Если возникают проблемы с подключением:
 
-* ```alt.tyranny.world```
-* ```exp.tyranny.world```
-* ```ru.tyranny.world```
+```
+alt.tyranny.world
+```
+```
+exp.tyranny.world
+```
+```
+ru.tyranny.world
+```
 
 ---
 
