@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Tyranny Wiki](README.md)
+* [🌍 Общая информация](README.md)
+* [📜 Правила сервера](rules.md)
