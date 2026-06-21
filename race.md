@@ -5,7 +5,8 @@
 > 💡 Некоторые способности требуют определённого предмета в руке и активации через **Shift + ПКМ** или **ЛКМ**.
 
 
-![Человек](<img width="1191" height="1191" alt="image_2026-06-21_17-58-33" src="https://github.com/user-attachments/assets/63f9c512-8c98-49dc-aa7d-4e8c5e7387c6" />)
+!Человек
+<img width="1191" height="1191" alt="Человек" src="https://github.com/user-attachments/assets/63f9c512-8c98-49dc-aa7d-4e8c5e7387c6" />
 
 > Универсальная раса, подходящая практически для любого стиля игры.
 
@@ -14,7 +15,9 @@
 ### 📦 Кладём на совесть
 Максимальная дистанция взаимодействия с блоками увеличена.
 
-### [Ловкий манёвр](<img width="160" height="160" alt="image_2026-06-21_17-58-3343" src="https://github.com/user-attachments/assets/b2eda5e4-5f21-4881-b6eb-7de49d827e3c" />)
+
+### [Ловкий манёвр]
+[Иконка способности](https://github.com/user-attachments/assets/b2eda5e4-5f21-4881-b6eb-7de49d827e3c)
 Позволяет совершить двойной прыжок.
 
 **Активация:** Shift + ПКМ с копьём.
