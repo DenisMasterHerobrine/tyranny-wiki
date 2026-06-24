@@ -5,8 +5,8 @@
 > 💡 Некоторые способности требуют определённого предмета в руке и активации через **Shift + ПКМ** или **ЛКМ**.
 
 
-!Человек
-<img width="1191" height="1191" alt="image_2026-06-21_17-58-33" src="https://github.com/user-attachments/assets/b7a65460-6cce-4a93-930d-9edb07ea0166" />
+### Человек
+<img width="1191" height="1191" alt="Человек" src="https://github.com/user-attachments/assets/b7a65460-6cce-4a93-930d-9edb07ea0166" />
 
 
 > Универсальная раса, подходящая практически для любого стиля игры.
@@ -18,7 +18,7 @@
 
 
 ### [Ловкий манёвр]
-<img width="160" height="160" alt="image_2026-06-21_17-58-3343" src="https://github.com/user-attachments/assets/52f86232-f13e-4e20-94a6-92fc43895fa7" />
+<img width="160" height="160" alt="Иконка: Ловкий манёвр" src="https://github.com/user-attachments/assets/52f86232-f13e-4e20-94a6-92fc43895fa7" />
 Позволяет совершить двойной прыжок.
 
 **Активация:** Shift + ПКМ с копьём.
