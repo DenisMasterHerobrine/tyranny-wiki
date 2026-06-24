@@ -6,7 +6,8 @@
 
 
 !Человек
-<img width="1191" height="1191" alt="Человек" src="https://github.com/user-attachments/assets/63f9c512-8c98-49dc-aa7d-4e8c5e7387c6" />
+<img width="1191" height="1191" alt="image_2026-06-21_17-58-33" src="https://github.com/user-attachments/assets/b7a65460-6cce-4a93-930d-9edb07ea0166" />
+
 
 > Универсальная раса, подходящая практически для любого стиля игры.
 
@@ -17,7 +18,7 @@
 
 
 ### [Ловкий манёвр]
-[Иконка способности](https://github.com/user-attachments/assets/b2eda5e4-5f21-4881-b6eb-7de49d827e3c)
+<img width="160" height="160" alt="image_2026-06-21_17-58-3343" src="https://github.com/user-attachments/assets/52f86232-f13e-4e20-94a6-92fc43895fa7" />
 Позволяет совершить двойной прыжок.
 
 **Активация:** Shift + ПКМ с копьём.
