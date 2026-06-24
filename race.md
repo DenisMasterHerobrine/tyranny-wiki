@@ -17,11 +17,11 @@
 Максимальная дистанция взаимодействия с блоками увеличена.
 
 
-### [Ловкий манёвр]
-<img width="160" height="160" alt="Иконка: Ловкий манёвр" src="https://github.com/user-attachments/assets/52f86232-f13e-4e20-94a6-92fc43895fa7" />
+## [Ловкий манёвр]
+<img width="160" height="160" alt="Иконка: Ловкий манёвр" src="https://github.com/user-attachments/assets/52f86232-f13e-4e20-94a6-92fc43895fa7" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
 Позволяет совершить двойной прыжок.
-
-**Активация:** Shift + ПКМ с копьём.
+*Активация:* Shift + ПКМ с копьём.
+<div style="clear: both;"></div>
 
 ### 🍖 Всеядность
 Человек способен употреблять практически любую пищу, включая золотую морковь.
